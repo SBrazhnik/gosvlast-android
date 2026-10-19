@@ -1,0 +1,11 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- фронтон и колонны, полоса снизу в цветах флага -->
+    <path android:fillColor="#FFFFFF" android:pathData="M54,30 L80,42 L28,42 Z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M32,46h6v20h-6z M44,46h6v20h-6z M58,46h6v20h-6z M70,46h6v20h-6z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M28,68h52v4H28z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M28,74h17v3H28z"/>
+    <path android:fillColor="#7FA2E0" android:pathData="M45.5,74h17v3h-17z"/>
+    <path android:fillColor="#E0565E" android:pathData="M63,74h17v3H63z"/>
+</vector>
